@@ -1,5 +1,5 @@
 # Make-Timelapse
-This script processes source videos in a specified directory and generates a timelapse video
+This script processes source videos in a specified directory and stitches them together to generate a timelapse video
 
 This project uses moviepy. To install, run the following command:
 
